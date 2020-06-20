@@ -1,10 +1,15 @@
 fileFormatVersion: 2
 guid: 8145c244bd6668a44b6a1aed4910a096
 ScriptedImporter:
-  fileIDToRecycleName:
-    4900000: Strings
-    11400000: Program
+  internalIDToNameTable:
+  - first:
+      49: 4900000
+    second: Strings
+  - first:
+      114: 11400000
+    second: Program
   externalObjects: {}
+  serializedVersion: 2
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -22,53 +27,31 @@ ScriptedImporter:
   localizations:
   - languageName: en
     text: {fileID: 4900000, guid: b5c9c0c15d0507b4b8b2f22fe9537a80, type: 3}
+  - languageName: de-DE
+    text: {fileID: 4900000, guid: 92500a65e7cfc3a44a43dffe416d2e10, type: 3}
   voiceOvers:
   - linetag: line:0e3dc4b
     languageToAudioclip:
     - language: en
-      audioClip: {instanceID: 0}
-      audioClipAddressable:
-        assetGUID: dbce673db3c96a24a948d24b4c61f462
-        subObjectName: 
+      audioClip: {fileID: 8300000, guid: dbce673db3c96a24a948d24b4c61f462, type: 3}
     - language: de
-      audioClip: {instanceID: 0}
-      audioClipAddressable:
-        assetGUID: 925ab48b6d0bd314f8d29fb0fcad02ef
-        subObjectName: 
+      audioClip: {fileID: 8300000, guid: 925ab48b6d0bd314f8d29fb0fcad02ef, type: 3}
   - linetag: line:0967160
     languageToAudioclip:
     - language: en
-      audioClip: {instanceID: 0}
-      audioClipAddressable:
-        assetGUID: cb3a7dc09556e344191a02051b6c2e6c
-        subObjectName: 
+      audioClip: {fileID: 8300000, guid: cb3a7dc09556e344191a02051b6c2e6c, type: 3}
     - language: de
-      audioClip: {instanceID: 0}
-      audioClipAddressable:
-        assetGUID: 7c1a3502fb6e83e4287a5967faaab88d
-        subObjectName: 
+      audioClip: {fileID: 8300000, guid: 7c1a3502fb6e83e4287a5967faaab88d, type: 3}
   - linetag: line:04e806e
     languageToAudioclip:
     - language: en
-      audioClip: {instanceID: 0}
-      audioClipAddressable:
-        assetGUID: 
-        subObjectName: 
+      audioClip: {fileID: 8300000, guid: 75b0457afbcd0a3489f4f2e4512bba56, type: 3}
     - language: de
-      audioClip: {instanceID: 0}
-      audioClipAddressable:
-        assetGUID: 
-        subObjectName: 
+      audioClip: {fileID: 8300000, guid: d767558b864fc17458fc95f55985d1bf, type: 3}
   - linetag: line:0901fb2
     languageToAudioclip:
     - language: en
-      audioClip: {instanceID: 0}
-      audioClipAddressable:
-        assetGUID: 
-        subObjectName: 
+      audioClip: {fileID: 8300000, guid: 1cf501cfb98506b43b291d00fb8eb969, type: 3}
     - language: de
-      audioClip: {instanceID: 0}
-      audioClipAddressable:
-        assetGUID: 
-        subObjectName: 
+      audioClip: {fileID: 8300000, guid: 101718f67e0e85f4487533e8027fa21f, type: 3}
   programContainer: {fileID: 11400000, guid: 8145c244bd6668a44b6a1aed4910a096, type: 3}
